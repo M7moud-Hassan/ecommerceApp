@@ -20,6 +20,7 @@ ListView category(productList) {
 
 GridView mostPopularCategory(context, product) {
   return GridView.count(
+    physics: const BouncingScrollPhysics(),
     crossAxisCount: 2,
     children: List.generate(product.length, (index) {
       return GestureDetector(

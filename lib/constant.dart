@@ -10,3 +10,4 @@ const kPrimaryGradientColor = LinearGradient(
 );
 const kSecondaryColor = Color(0xFF979797);
 const kTextColor = Color(0xFF757575);
+const colorToolBarItems = Color.fromARGB(255, 2, 74, 92);

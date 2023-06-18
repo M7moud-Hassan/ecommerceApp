@@ -1,0 +1,25 @@
+{
+  "categories":[
+    {
+      "id":1,
+      "name":"shoes",
+      "counter":1292,
+      "available":true,
+      "image":"product1.png"
+    },
+    {
+      "id":2,
+      "name":"Chair",
+      "counter":1292,
+      "available":true,
+      "image":"product1.png"
+    },
+    {
+      "id":2,
+      "name":"Chair",
+      "counter":1292,
+      "available":true,
+      "image":"product1.png"
+    }
+  ]
+}
